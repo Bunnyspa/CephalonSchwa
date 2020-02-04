@@ -1,0 +1,38 @@
+Do you want to add Cephalon Schwa to your server? Click this link:
+<https://discordapp.com/oauth2/authorize?&client_id=253647934699077633&scope=bot&permissions=0>
+```haskell
+List of Commands
+```If you are an administrator, try `<p>help admin`.
+`(parentheses)` are optional.
+`bars|between|words` are select-ones.
+<n>__**Discord**__
+
+`<p>help` : List commands. (This one!)
+`<p>help admin` : List commands that require permission.
+`<p>feedback TEXT` : Send a feedback to developers.
+`<p>time` : Show the current time in UTC.
+`<p>event on CODE TIME` : Register an event. CODE is a "title" you create; it must be either alphabets(a-z), digits(0-9), or underscores(_). TIME format is YYYY-MM-DD hh:mm (UTC).
+`<p>event off CODE` : Remove the event. Only the host can remove it.
+`<p>event join|leave CODE` : Join|Leave the event. You will get notifications 60/30/10 minutes prior to the event you joined.
+`<p>event list (CODE)` : If (CODE) is not present, shows a list of events registered on this server. If (CODE) is specified, shows a list of participants.
+`<p>ping` : Pong!
+<n>__**Warframe**__
+
+`<p>alert` : Display alerts.
+`<p>inv(asion)` : Display invasions.
+`<p>void|fissure` : Display Void Fissures.
+`<p>sortie` : Display sorties.
+`<p>cetus|poe|eidolon` : Display the time in Cetus.
+`<p>active|now` : Display currently active missions (alerts, invasions, fissures, and sorties).
+`<p>baro|trader` : Display Void Trader info.
+`<p>drain EFFICIENCY DURATION (COST)` : Calculate channel ability energy drain.
+`<p>armo(u)r ARMOR` : Calculate damage reduction.
+`<p>pc|price ITEM` : Check the average price of an item set.
+`<p>wiki|what ITEM` : Link a Wikia article.
+`<p>drop(table) QUERY` : Fetch droptable data.
+`<p>raid NAME` : Display raid data.
+<n>__**Notification**__
+
+`<p>sub(scribe) list` : List roles you can subscribe to with explanations to each role.
+`<p>sub(scribe) ROLE` : Subscribe to the notification. You will be given a role.
+`<p>unsub(scribe) (ROLE)` : Unsubscribe to the notification. Unsubscribe to all if (ROLE) is omitted.

@@ -1,0 +1,206 @@
+[1.0.0: Droptable]
+I started a new version and a changelog after updating a feature to look up droptable.
+
+[1.0.1]
+Fixed droptable feature giving 403 Forbidden error
+
+[1.0.2]
+Optimized droptable feature
+
+[1.0.3]
+More subscribable roles for specific weapon parts (e.g. Dera, Vulkar, etc.)
+Optimized droptable feature
+droptable command capitalization error fix
+Scheduled deletion error fix
+
+[1.0.4]
+Notification subscription on fix
+Changed subscribable role "NeuralSensor" to "Sensor"
+
+[1.0.5]
+Droptable can be sent as DM without a limit with an additional argument.
+Optimized droptable
+
+[1.0.6]
+Rearranged droptable command so that DM option is at the front.
+
+[1.0.7]
+Discarded DM option in droptable command. Instead, sending via DM performs the 1.0.5 feature.
+Droptable result limit changed from number of tables to number of lines.
+Improved droptable keyword search
+
+[1.0.8]
+Fixed the void trader's inventory (He brought all his items in TennoCon Hub)
+
+[1.0.9]
+Reconfigured item data strings be full, not only strings after slashes. Item database is reset at this point.
+
+[1.1.0: Raid]
+Raid stat lookup feature
+
+[1.1.1]
+Added 5 recent run results to raid stat
+
+[1.1.2]
+Reduced redundancy for raid stat (moved recent run results to the end so that it does not appear twice).
+
+[1.1.3]
+Zero division error in raid stat fix
+
+[1.1.4-7]
+Internal error fix
+Error handling simplification
+Output format clean up
+
+[1.2.0: Feedback]
+Added feedback feature for sending a message to developers.
+Moar misc. clean ups
+
+[1.3.0: Schedule]
+Added schedule feature prototype
+
+[1.3.1]
+Schedule fix
+
+[1.3.2]
+Schedule fix
+Changed notice data type from set(chanID) to dict(servID:chanID): easier schedule notification
+
+[1.3.3]
+Schedule fix
+
+[1.3.4]
+Schedule fix
+Removed discordTime and wfTime: instead used local time
+
+[1.3.5]
+Schedule alert fix
+Fixed help text too long to send
+
+[1.4.0: Time]
+Added time feature to show the current time in UTC
+Merged msgs_* functions: It was somewhat redundant.
+Schedule: Included the host as one of participants
+Fixed notification discord.errors.HTTPException error (by passing)
+
+[1.4.1]
+Schedule on: underscore is now allowed in code
+
+[1.4.2]
+Fixed some schedules unintentionally getting deleted
+
+[1.4.3]
+Help file clarification
+Notice/Schedule data pre-mutation for KR language support
+
+[1.5.0: Korean]
+Korean language support
+
+[1.6.0: Version]
+Version command
+Correct graphical length with Korean
+Some Korean translations and commands
+
+[1.6.1]
+Korean for raid
+
+[1.6.2]
+Korean dictionary update
+
+[1.6.3]
+Invasion in Korean w/ Infested fix
+Added ducat and ducat per plat in price check
+
+[1.6.4]
+Korean translation
+
+[1.6.5]
+No more day repeat - only once
+servData_clean: retry on discord error
+
+[1.6.6]
+Add:Track baro item data if it cannot be converted
+Fix:serv:verification level
+Fix:schedule:fetch correct notification channel
+
+[1.6.7]
+Fix:onMsg_raid:hosting rate (div0)
+
+[1.7.0: Data Backup]
+Add:item data backup
+
+[1.8.0: Event]
+Chg:schedule -> event
+
+[1.8.1]
+Fix:event_list:proper box
+
+[1.8.2]
+Fix:onMsg_raid:glitch runs giving wrong win count
+Chg:onMsg_event_list:simpler minute and hour numbers
+
+[1.8.3]
+Chg:onMsg_raid:disabled because Christx does not work
+
+[1.8.4]
+Chg:onMsg_raid:reenabled with different API
+Fix:onMsg_event_partList:code case sensitivity
+
+[1.9.0: Discord.py]
+Chg:Recent version (0.16.11) of discord.py
+
+[1.9.1]
+Rmv:min_nowSim
+Fix:init_drop
+
+[1.9.2]
+Chg:onMsg_drop:disabled for maintenance
+
+[1.9.3]
+Fix:servData_isDev:read all roles instead of top role
+
+[1.10.0: PoE]
+Add:(onMsg_poe)PoE day/night cycle
+Add:(min_cycle)PoE day/night cycle notification feature
+
+[1.10.1]
+Fix:deleteRole:argument error
+
+[1.10.2]
+Chg:onMsg_drain:drain reduction -> drain efficiency
+Add:getStr_poe:progress bar for non-brief output
+
+[1.10.3]
+Chg:now_cetus:const 780 -> 900
+Chg:notice -> notice alert
+Chg:cycle -> notice cetus
+
+[1.10.4]
+Fix:onMsg_event_on: command reading
+
+[1.10.5]
+Chg:min_event_alert: Does not require notice_alert and sends via DM.
+
+[1.10.6]
+Chg:onMsg_sub/unsub: Does not autocorrect but suggests.
+
+[1.10.7]
+Fix: roleList() causing name error -> getRoles()
+Add: Cetus role
+Chg:onMsg_sub/unsub: Checks if role is in server
+
+[1.10.8]
+Chg:onMsg_pc: Additional line if query does not exist in the database
+
+[1.10.9]
+Chg:init_servData: No longer perform servData_clean() as it might delete the whole data
+
+[1.10.10]
+Chg:onMsg_drop: re-enabled with API. simpler arguments.
+
+[1.10.11]
+Fix:msgs: msg with more than 2000 chars
+Chg:init_drop: disabled cetusBountyRewards as it does not exist in the API for now
+
+[1.10.12]
+Chg:now_cetus: constant value

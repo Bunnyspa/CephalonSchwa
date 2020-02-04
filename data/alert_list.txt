@@ -1,0 +1,57 @@
+^ Pomato Reactor + Catalyst + Exilus (potato + tomato)
+  > Reactor Orokin Reactor BP
+  > Catalyst Orokin Catalyst BP
+  > Exilus Exilus Adapter
+^ Forma Forma BP
+^ Endo Endo
+^ Trace Void Traces
+^ WeaponPart Various weapon variant parts e.g. Karak Wraith Stock
+  > Wraith Wraith variant parts
+    - Karak Karak Wraith parts
+    - Latron Latron Wraith parts
+    - Strun Strun Wraith parts
+    - TwinVipers Twin Vipers Wraith parts
+  > Vandal Vandal variant parts
+    - Dera Dera Vandal parts
+    - Snipetron Snipetron Vandal parts
+  > Sheev Sheev parts
+^ Skin Cosmetics for your arsenal
+  > Helmet Warframe cosmetic helmets
+  > WeaponSkin Weapon cosmetic skin BPs
+^ Equipment Warframe and weapon BPs
+  > Vauban Vauban part BPs
+  > Weapon Weapon BPs e.g. Heat Sword BP
+^ Mod Mods
+  > Aura Aura mods
+  > NMMod Dual stat mods (Nightmare mods)
+^ MutAladV Mutalist Alad V Nav Coordinate
+^ Nitain Nitain Extract
+^ Synthula Synthula
+^ Pet Kubrow + Kavat
+  > Kubrow Kubrow Egg
+  > Kavat Kavat Genetic Code
+^ Resource Various resources
+  > Component Resources for some of faction weapons
+    - Mutagen Mutagen Mass
+    - Detonite Detonite Injector
+    - Fieldron Fieldron
+  > Rare Rare resources
+    - Argon Argon Crystal
+    - Module Control Module
+    - Gallium Gallium
+    - Morphic Morphics
+    - Sensor Neural Sensors
+    - Neurode Neurodes
+    - Cell Orokin Cell
+    - Tellurium Tellurium
+  > Uncommon Uncommon resources
+    - Circuit Circuits
+    - Oxium Oxium
+    - Plastid Plastids
+    - Rubedo Rubedo
+  > Common Common resources
+    - Alloy Alloy Plate
+    - Ferrite Ferrite
+    - Spore Nano Spores
+    - Polymer Polymer Bundle
+    - Salvage Salvage

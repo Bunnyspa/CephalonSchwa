@@ -1,0 +1,8 @@
+`<p>data backup save|load` : Save/Load backup item data
+`<p>data clean [CATEGORY]` : Clean up data
+`<p>data delete [CATEGORY] [DATA]` : Delete data from category
+`<p>data eval [CATEGORY]` : Evaluate data
+`<p>server list` : List of servers
+`<p>server (SERVER ID) (channel|member|emoji)` : Server information
+`<p>channel (CHANNEL ID)` : Channel information
+`<p>user|member (server [SERVER ID]) (USER ID/NICK)` : User/member information

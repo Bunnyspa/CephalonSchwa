@@ -1,0 +1,57 @@
+^ Pomato 리액터 + 카탈리스트 + 엑실러스
+  > Reactor 오로킨 리액터 설계도
+  > Catalyst 오로킨 카탈리스트 설계도
+  > Exilus 엑실러스 어댑터
+^ Forma 포르마 설계도
+^ Endo 엔도
+^ Trace 보이드 잔영물
+^ WeaponPart 무기 파츠 예: 카락 레이스 스톡
+  > Wraith 레이스 파츠
+    - Karak 카락 레이스 파츠
+    - Latron 래트론 레이스 파츠
+    - Strun 스트런 레이스 파츠
+    - TwinVipers 트윈 바이퍼즈 레이스 파츠
+  > Vandal 반달 파츠
+    - Dera 데라 반달 파츠
+    - Snipetron 스나이프트론 반달 파츠
+  > Sheev 쉬브 파츠
+^ Skin 스킨
+  > Helmet 워프레임 헬멧 스킨 설계도
+  > WeaponSkin 무기 스킨 설계도
+^ Equipment 워프레임과 무기
+  > Vauban 바우반 파츠 설계도
+  > Weapon 무기 설계도 예: 히트 소드 설계도
+^ Mod 모드
+  > Aura 오라 모드
+  > NMMod 나이트메어 모드
+^ MutAladV 뮤탈리스트 알라드 V 내비 코디네이트
+^ Nitain 니테인 추출물
+^ Synthula 신툴라
+^ Pet 쿠브로 + 카밧
+  > Kubrow 쿠브로 알
+  > Kavat 카밧 유전자 코드
+^ Resource 모든 자원
+  > Component Resources for some of faction weapons
+    - Mutagen Mutagen Mass
+    - Detonite Detonite Injector
+    - Fieldron Fieldron
+  > Rare Rare resources
+    - Argon Argon Crystal
+    - Module Control Module
+    - Gallium Gallium
+    - Morphic Morphics
+    - Sensor Neural Sensors
+    - Neurode Neurodes
+    - Cell Orokin Cell
+    - Tellurium Tellurium
+  > Uncommon Uncommon resources
+    - Circuit Circuits
+    - Oxium Oxium
+    - Plastid Plastids
+    - Rubedo Rubedo
+  > Common Common resources
+    - Alloy Alloy Plate
+    - Ferrite Ferrite
+    - Spore Nano Spores
+    - Polymer Polymer Bundle
+    - Salvage Salvage

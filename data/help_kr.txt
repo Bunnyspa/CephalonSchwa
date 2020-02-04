@@ -1,0 +1,39 @@
+서버에 세팔론 슈와(Cephalon Schwa)를 초대하고 싶으세요? 이 링크를 클릭하세요:
+<https://discordapp.com/oauth2/authorize?&client_id=253647934699077633&scope=bot&permissions=0>
+```haskell
+명령어
+```서버 관리자분들은 `<p>도움말 관리자` 명령어를 써보세요.
+`(괄호)`는 넣지 않으셔도 됩니다.
+`수직선이|있는|단어그룹`은 하나를 선택하시면 됩니다.
+한 문자만 입력하셔도 됩니다. (예: 얼럿 -> 얼, 침공 -> 침)
+<n>__**Discord**__
+
+`<p>도움말` : 도움말을 보여줍니다.
+`<p>도움말 관리자` : 관리자전용 도움말을 보여줍니다.
+`<p>피드백 [문장]` : 개발자에게 글을 보냅니다.
+`<p>time` : Show the current time in UTC.
+`<p>event on CODE TIME` : Register an event. CODE is a "title" you create; it must be either alphabets(a-z), digits(0-9), or underscores(_). TIME format is YYYY-MM-DD hh:mm (UTC).
+`<p>event off CODE` : Remove the event. Only the host can remove it.
+`<p>event join|leave CODE` : Join|Leave the event. You will get notifications 60/30/10 minutes prior to the event you joined.
+`<p>event list (CODE)` : If (CODE) is not present, shows a list of events registered on this server. If (CODE) is specified, shows a list of participants.
+`<p>ping` : Pong!
+<n>__**Warframe**__
+
+`<p>얼럿` : 현재 활성화된 얼럿들을 보여줍니다.
+`<p>침공` : 현재 활성화된 침공들을 보여줍니다.
+`<p>보이드|균열` : 현재 활성화된 보이드 균열들을 보여줍니다.
+`<p>출격` : 현재 활성화된 출격을 보여줍니다.
+`<p>세투스|아이돌론|평원` : 세투스의 시간을 보여줍니다.
+`<p>현재` : 현재 활성화된 미션들을 보여줍니다.
+`<p>바로(키티어)|상인` : 보이드 상인에 대한 정보를 보여줍니다.
+`<p>drain EFFICIENCY DURATION (COST)` : Calculate channel ability energy drain.
+`<p>armo(u)r ARMOR` : Calculate damage reduction.
+`<p>시세 [아이템]` : 아이템의 시세를 보여줍니다.
+`<p>위키 [키워드]` : 영어 위키 링크를 띄웁니다.
+`<p>drop(table) QUERY` : Fetch droptable data.
+`<p>토벌전|레이드 [유저이름]` : 유저의 토벌전 전적을 검색합니다.
+<n>__**Warframe Notification**__
+
+`<p>sub(scribe) list` : List roles you can subscribe to with explanations to each role.
+`<p>sub(scribe) ROLE` : Subscribe to the notification. You will be given a role.
+`<p>unsub(scribe) (ROLE)` : Unsubscribe to the notification. Unsubscribe to all if (ROLE) is omitted.

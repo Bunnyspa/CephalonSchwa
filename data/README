@@ -1,0 +1,3 @@
+This directory (data/) stores (formatted) texts that are used inside the code.
+The following are special marks to be converted in the code:
+<p>: prefix of the bot command

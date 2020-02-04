@@ -1,0 +1,276 @@
+### Resources
+
+# Common
+Alloy Plate:얼로이 플레이트
+Ferrite:퍼라이트
+Nano Spores:나노 스포어
+Polymer Bundle:폴리머 번들
+Salvage:샐비지
+
+# Uncommon
+Circuits:서킷
+Oxium:옥슘
+Plastids:플라스티드
+Rubedo:루비도
+
+# Rare
+Argon Crystal:아르곤 크리스탈
+Control Module:컨트롤 모듈
+Gallium:갈륨
+Morphics:모르픽스
+Neural Sensors:뉴럴 센서
+Neurodes:뉴로드
+Cell:셀
+Tellurium:텔루륨
+
+# Research
+Detonite Injector:디토나이트 인젝터
+Fieldron:필드론
+Mutagen Mass:뮤타젠 매스
+
+# Pet
+Kubrow Egg:쿠브로 알
+Kavat Genetic Code:카밧 유전자 코드
+
+# Misc
+Nitain Extract:니테인 추출물
+Synthula:신툴라
+Void Traces:보이드 잔영물
+Endo:엔도
+
+### Item
+
+# Pomato
+Catalyst:카탈리스트
+Reactor:리액터
+Exilus Adapter:엑실러스 어댑터
+Forma:포르마
+
+# Misc
+Mutalist Alad V Nav Coordinate:뮤탈리스트 알라드 V 내비 코디네이트
+
+### Mod
+
+# Nightmare
+Accelerated Blast:엑셀러레이티드 블래스트
+Animal Instinct:애니멀 인스팅트
+Armored Agility:아머드 어질리티
+Blaze:블레이즈
+Chilling Reload:칠링 리로드
+Constitution:컨스티튜션
+Drifting Contact:드리프팅 컨택트
+Focus Energy:포커스 에너지
+Fortitude:포티튜드
+Hammer Shot:해머샷
+Ice Storm:아이스 스톰
+Lethal Torrent:리썰 토렌트
+Rending Strike:렌딩 스트라이크
+Seeking Fury:시킹 퓨리
+Shred:슈레드
+Streamlined Form:스트림라인드 폼
+Stunning Speed:스터닝 스피드
+Vigor:비거
+Wildfire:와일드 파이어
+
+# Aura
+Corrosive Projection:코로시브 프로젝션
+Dead Eye:데드 아이
+EMP Aura:EMP 오라
+Enemy Radar:에너미 레이더
+Energy Siphon:에너지 사이펀
+Infested Impedance:인페스티드 임피던스
+Loot Detector:루트 디텍터
+Physique:피지크
+Pistol Scavenger:피스톨 스케빈져
+Rejuvenation:리쥬버네이션
+Rifle Amp:라이플 앰프
+Rifle Scavenger:라이플 스케빈져
+Shield Disruption:쉴드 디스럽션
+Shotgun Scavenger:샷건 스케빈져
+Sniper Scavenger:스나이퍼 스케빈져
+Speed Holster:스피드 홀스터
+Sprint Boost:스프린트 부스트
+Steel Charge:스틸 차지
+# Brief Respite:브리프 리스파이트
+# Empowered Blades:임파워드 블레이드
+# Growing Power:그로잉 파워
+# Pistol Amp:피스톨 앰프
+# Shotgun Amp:샷건 앰프
+# Stand United:스탠드 유나이티드
+
+### Equipment
+
+# Parts
+BP:설계도
+Barrel:배럴
+Receiver:리시버
+Stock:스톡
+Blade:블레이드
+Heatsink:히트싱크
+Hilt:힐트
+
+# Melee
+Ceramic:세라믹
+Dark:다크
+Glaive:글레이브
+Heat:히트
+Jaw:조우
+Pangolin:팽골린
+Plasma:플라즈마
+Dagger:대거
+Sword:소드
+
+# Grineer
+Wraith:레이스
+Karak:카락
+Latron:래트론
+Strun:스트런
+Twin Vipers:트윈 바이퍼즈
+Sheev:쉬브
+
+# Corpus
+Vandal:반달
+Dera:데라
+Snipetron:스나이프트론
+
+# Warframe
+Helmet:헬멧
+Chassis:섀시
+Systems:시스템
+Neuroptics:뉴로옵틱스
+
+Nidus:나이더스
+Nezha:나타
+Nekros:네크로스
+Nova:노바
+Nyx:닉스
+Rhino:라이노
+Loki:로키
+Limbo:림보
+Mag:매그
+Mesa:메사
+Mirage:미라지
+Vauban:바우반
+Valkyr:발키르
+Banshee:밴쉬
+Volt:볼트
+Saryn:새린
+Atlas:아틀라스
+Ash:애쉬
+Excalibur:엑스칼리버
+Ember:엠버
+Wukong:오공
+Oberon:오베론
+Octavia:옥타비아
+Inaros:이나로스
+Ivara:이바라
+Equinox:이쿼녹스
+Zephyr:제피르
+Chroma:크로마
+Trinity:트리니티
+Titania:티타니아
+Frost:프로스트
+Hydroid:하이드로이드
+Harrow:해로우
+
+### Skin
+Skin:스킨
+Dual Zoren:듀얼 조런
+Fragor Brokk:프레거 브로크
+Scindo:신도
+Manticore:만티코어
+Dagger-Axe:대거엑스
+
+### Planets
+
+Mercury:수성
+Venus:금성
+Earth:지구
+Mars:화성
+Phobos:포보스
+Ceres:세레스
+Jupiter:목성
+Europa:유로파
+Saturn:토성
+Uranus:천왕성
+Neptune:해왕성
+Pluto:명왕성
+Eris:에리스
+Sedna:세드나
+Void:보이드
+Kuva Fortress:쿠바 요새
+
+### Missions
+
+Interception:감청
+Deception:교란
+Rescue:구출
+Mobile Defense:모바일 방어
+Excavation:발굴
+Defense:방어
+Survival:생존
+Capture:생포
+Exterminate:섬멸
+Crossfire:크로스 파이어
+Assassination:암살
+Spy:첩보활동
+Invasion:침공
+Hijack:탈취
+Sabotage:파괴공작
+Hive:하이브
+
+### Void Fissures
+
+Lith:리스
+Meso:메소
+Neo:네오
+Axi:액시
+
+### Sorties
+
+Augmented:강화된
+Armor:방어력
+Shields:쉴드
+
+Physical:물리
+Elemental:속성
+Enhancement:강화
+
+Impact:충격
+Puncture:관통
+Slash:베기
+Cold:냉기
+Electricity:전기
+Fire:화염
+Toxin:독성
+Blast:폭발
+Corrosive:부식성
+Gas:가스
+Magnetic:자성
+Radiation:방사능
+Viral:바이러스
+
+Energy Reduction:에너지 감소
+Eximus Stronghold:엑시무스 요새
+
+Assault Rifle Only:소총만 사용가능
+Melee Only:근접무기만 사용가능
+Secondary Only:보조무기만 사용가능
+Shotgun Only:산탄총만 사용가능
+Sniper Only:저격총만 사용가능
+Bow Only:활만 사용가능
+
+Fire Hazard:화재
+Extreme Cold:매서운 추위
+Cryogenic Leakage:극저온 환경
+Dense Fog:짙은 안개
+Radiation Hazard:방사능 재해
+Electromagnetic Anomalies:자기장 재해
+Low Gravity:중력 저하
+
+### Faction
+
+Corpus:코퍼스
+Grineer:그리니어
+Infested:인페스티드
+Orokin:오로킨

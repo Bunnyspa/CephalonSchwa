@@ -1,0 +1,18 @@
+```haskell
+명령어 (관리자)
+```
+*(권한)* 은 저하고 명령자가 필요한 권한입니다.
+
+__**Discord**__ *(메세지 관리)*
+
+`<p>bpin [MESSAGE]` : Pin a message (bottom pin) that stays at the bottom (by reposting everytime a new message is posted).
+`<p>bpin clear` : Delete bottom pin.
+`<p>del (COUNT)` : Delete (COUNT) most recent message(s). Deletes only 1 if (COUNT) is omitted.
+`<p>del day [DAY]` : Delete messages that are [DAY]+ days old.
+`<p>del auto [DAY]` : Schedule an automated deletion for messages that are [DAY]+ days old.
+`<p>del auto clear` : Clear the automated deletion.
+
+__**Warframe Notification**__
+
+`<p>알림 얼럿|세투스 켬|끔` : *(메세지 관리)* 이 채널에 알림 메세지를 켜거나 끕니다. "얼럿"은 얼럿과 침공 알림을 켭니다. "세투스"는 세투스의 낮/밤 알림을 켭니다.
+`<p>알림 얼럿|세투스 구독 켬|끔 (ROLE)` : *(역할 관리)* 얼럿과 알림구독을 위한 역할들을 생성합니다. If (ROLE) is specified, copy permissions and color from (ROLE).

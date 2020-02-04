@@ -1,0 +1,2 @@
+discord.py>=0.16.11
+beautifulsoup4>=4.6.0

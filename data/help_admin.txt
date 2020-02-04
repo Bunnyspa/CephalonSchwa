@@ -1,0 +1,18 @@
+```haskell
+List of Commands (administrator)
+```
+*(Permissions)* are permissions you and I require.
+
+__**Discord**__ *(Manage Messages)*
+
+`<p>bpin [MESSAGE]` : Pin a message (bottom pin) that stays at the bottom (by reposting everytime a new message is posted).
+`<p>bpin clear` : Delete bottom pin.
+`<p>del (COUNT)` : Delete (COUNT) most recent message(s). Deletes only 1 if (COUNT) is omitted.
+`<p>del day [DAY]` : Delete messages that are [DAY]+ days old.
+`<p>del auto [DAY]` : Schedule an automated deletion for messages that are [DAY]+ days old.
+`<p>del auto clear` : Clear the automated deletion.
+
+__**Warframe Notification**__
+
+`<p>notice alert|cetus on|off` : *(Manage Messages)* Turn on|off notifications in this channel. "alert" enables alert and invasion notifications. "cetus" enables Cetus day/night cycle notifications.
+`<p>notice alert|cetus sub on|off (ROLE)` : *(Manage Roles)* Generate|Delete notification roles members can subscribe to. If (ROLE) is specified, copy permissions and color from (ROLE).

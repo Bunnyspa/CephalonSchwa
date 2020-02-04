@@ -1,0 +1,56 @@
+### Pomato
+OrokinReactor:Pomato,Reactor
+OrokinCatalyst:Pomato,Catalyst
+Exilus:Pomato,Exilus
+### WeaponPart
+KarakWraith:WeaponPart,Wraith,Karak
+LatronWraith:WeaponPart,Wraith,Latron
+StrunWraith:WeaponPart,Wraith,Strun
+TwinVipersWraith:WeaponPart,Wraith,TwinVipers
+Wraith:WeaponPart,Wraith
+DeraVandal:WeaponPart,Vandal,Dera
+SnipetronVandal:WeaponPart,Vandal,Snipetron
+Vandal:WeaponPart,Vandal
+GrineerCombatKnife:WeaponPart,Sheev
+### Misc.
+Forma:Forma
+AlertFusionBundle:Endo
+VoidTearDrop:Trace
+Trapper:Equipment,Vauban
+HelmetBlueprint:Skin,Helmet
+Skin BP:Skin,WeaponSkin
+AuraMod:Mod,Aura
+InfestedAlad:MutAladV
+Alertium:Nitain
+Eventium:Synthula
+### Pet
+Kubrow:Pet,Kubrow
+Catbrow:Pet,Kavat
+### Resource
+# Component
+BioComp:Resource,Component,Mutagen
+ChemComp:Resource,Component,Detonite
+EnergyComp:Resource,Component,Fieldron
+# Rare
+ArgonCrystal:Resource,Rare,Argon
+ControlModule:Resource,Rare,Module
+Gallium:Resource,Rare,Gallium
+Morphic:Resource,Rare,Morphic
+NeuralSensor:Resource,Rare,Sensor
+Neurode:Resource,Rare,Neurode
+OrokinCell:Resource,Rare,Cell
+Tellurium:Resource,Rare,Tellurium
+# Uncommon
+Circuits:Resource,Uncommon,Circuit
+Oxium:Resource,Uncommon,Oxium
+Plastids:Resource,Uncommon,Plastid
+Rubedo:Resource,Uncommon,Rubedo
+# Common
+AlloyPlate:Resource,Common,Alloy
+Ferrite:Resource,Common,Ferrite
+Nanospores:Resource,Common,Spore
+PolymerBundle:Resource,Common,Polymer
+Salvage:Resource,Common,Salvage
+# Etc.
+Mod:Mod,NMMod
+Blueprint:Equipment,Weapon
