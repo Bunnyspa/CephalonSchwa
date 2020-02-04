@@ -1,13 +1,15 @@
+[Beta] (4/26/2017)
+
 [1.0.0: Droptable]
 I started a new version and a changelog after updating a feature to look up droptable.
 
-[1.0.1]
+[1.0.1] (7/4/2017)
 Fixed droptable feature giving 403 Forbidden error
 
 [1.0.2]
 Optimized droptable feature
 
-[1.0.3]
+[1.0.3] (7/8/2017)
 More subscribable roles for specific weapon parts (e.g. Dera, Vulkar, etc.)
 Optimized droptable feature
 droptable command capitalization error fix
@@ -35,7 +37,7 @@ Fixed the void trader's inventory (He brought all his items in TennoCon Hub)
 [1.0.9]
 Reconfigured item data strings be full, not only strings after slashes. Item database is reset at this point.
 
-[1.1.0: Raid]
+[1.1.0: Raid] (7/11/2017)
 Raid stat lookup feature
 
 [1.1.1]
@@ -52,7 +54,7 @@ Internal error fix
 Error handling simplification
 Output format clean up
 
-[1.2.0: Feedback]
+[1.2.0: Feedback] (7/23/2017)
 Added feedback feature for sending a message to developers.
 Moar misc. clean ups
 
@@ -93,7 +95,7 @@ Fixed some schedules unintentionally getting deleted
 Help file clarification
 Notice/Schedule data pre-mutation for KR language support
 
-[1.5.0: Korean]
+[1.5.0: Korean] (7/26/2017)
 Korean language support
 
 [1.6.0: Version]
@@ -107,7 +109,7 @@ Korean for raid
 [1.6.2]
 Korean dictionary update
 
-[1.6.3]
+[1.6.3] (7/31/2017)
 Invasion in Korean w/ Infested fix
 Added ducat and ducat per plat in price check
 
@@ -129,7 +131,7 @@ Fix:onMsg_raid:hosting rate (div0)
 [1.7.0: Data Backup]
 Add:item data backup
 
-[1.8.0: Event]
+[1.8.0: Event] (8/15/2017)
 Chg:schedule -> event
 
 [1.8.1]
@@ -139,7 +141,7 @@ Fix:event_list:proper box
 Fix:onMsg_raid:glitch runs giving wrong win count
 Chg:onMsg_event_list:simpler minute and hour numbers
 
-[1.8.3]
+[1.8.3] (9/5/2017)
 Chg:onMsg_raid:disabled because Christx does not work
 
 [1.8.4]
@@ -149,17 +151,17 @@ Fix:onMsg_event_partList:code case sensitivity
 [1.9.0: Discord.py]
 Chg:Recent version (0.16.11) of discord.py
 
-[1.9.1]
+[1.9.1] (9/29/2017)
 Rmv:min_nowSim
 Fix:init_drop
 
-[1.9.2]
+[1.9.2] (10/13/2017)
 Chg:onMsg_drop:disabled for maintenance
 
 [1.9.3]
 Fix:servData_isDev:read all roles instead of top role
 
-[1.10.0: PoE]
+[1.10.0: PoE] (10/21/2017)
 Add:(onMsg_poe)PoE day/night cycle
 Add:(min_cycle)PoE day/night cycle notification feature
 
@@ -170,7 +172,7 @@ Fix:deleteRole:argument error
 Chg:onMsg_drain:drain reduction -> drain efficiency
 Add:getStr_poe:progress bar for non-brief output
 
-[1.10.3]
+[1.10.3] (10/25/2017)
 Chg:now_cetus:const 780 -> 900
 Chg:notice -> notice alert
 Chg:cycle -> notice cetus
@@ -178,7 +180,7 @@ Chg:cycle -> notice cetus
 [1.10.4]
 Fix:onMsg_event_on: command reading
 
-[1.10.5]
+[1.10.5] (11/4/2017)
 Chg:min_event_alert: Does not require notice_alert and sends via DM.
 
 [1.10.6]
@@ -195,12 +197,12 @@ Chg:onMsg_pc: Additional line if query does not exist in the database
 [1.10.9]
 Chg:init_servData: No longer perform servData_clean() as it might delete the whole data
 
-[1.10.10]
+[1.10.10] (11/19/2017)
 Chg:onMsg_drop: re-enabled with API. simpler arguments.
 
 [1.10.11]
 Fix:msgs: msg with more than 2000 chars
 Chg:init_drop: disabled cetusBountyRewards as it does not exist in the API for now
 
-[1.10.12]
+[1.10.12] (2/24/2018)
 Chg:now_cetus: constant value
